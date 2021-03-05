@@ -15,7 +15,10 @@ import org.thymeleaf.spring5.view.ThymeleafViewResolver
 @Configuration
 @ComponentScan("org.solovova.std_spring_firstmvc")
 @EnableWebMvc
-open class SpringConfig @Autowired constructor(private val applicationContext: ApplicationContext) : WebMvcConfigurer {
+open class SpringConfig   : WebMvcConfigurer {
+    @Autowired
+    private lateinit var applicationContext: ApplicationContext
+
     @Bean
     open fun templateResolver(): SpringResourceTemplateResolver {
         val templateResolver = SpringResourceTemplateResolver()
