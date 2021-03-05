@@ -2,9 +2,11 @@ package org.solovova.std_spring_firstmvc.controllers
 
 import org.springframework.stereotype.Controller
 import org.springframework.web.bind.annotation.GetMapping
+import org.springframework.web.bind.annotation.RequestMapping
 
 
 @Controller
+//@RequestMapping("/first") //  /first/hello
 class FirstController {
    @GetMapping("/hello")
     fun pageHello(): String {

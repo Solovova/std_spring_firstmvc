@@ -9,12 +9,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d573ab06-8dd0-4620-861d-aa1d0ae830ad" name="Default Changelist" comment="0.07">
+    <list default="true" id="d573ab06-8dd0-4620-861d-aa1d0ae830ad" name="Default Changelist" comment="0.08">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/SecondController.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/HelloController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/FirstController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_start.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_world.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/FirstController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/FirstController.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,18 +57,18 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF\views\second" />
       <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF\views\first" />
       <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF" />
       <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF\views" />
       <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\kotlin\org\solovova\std_spring_firstmvc" />
-      <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF\pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\prg\Spring\std_spring_firstmvc\src\main\webapp\WEB-INF\views" />
@@ -77,6 +78,9 @@
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="org.solovova" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="org.solovova.std_spring_firstmvc.controllers" />
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.43">
@@ -213,7 +217,7 @@
       <workItem from="1614871392002" duration="778000" />
       <workItem from="1614933349493" duration="2744000" />
       <workItem from="1614936306939" duration="223000" />
-      <workItem from="1614937966991" duration="2540000" />
+      <workItem from="1614937966991" duration="2792000" />
     </task>
     <task id="LOCAL-00001" summary="0.00">
       <created>1614859479945</created>
@@ -271,7 +275,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614942539921</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="0.08">
+      <created>1614943592379</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1614943592379</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,6 +309,7 @@
     <MESSAGE value="0.05 not work" />
     <MESSAGE value="0.06" />
     <MESSAGE value="0.07" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.07" />
+    <MESSAGE value="0.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.08" />
   </component>
 </project>
