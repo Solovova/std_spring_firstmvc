@@ -9,13 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d573ab06-8dd0-4620-861d-aa1d0ae830ad" name="Default Changelist" comment="0.08">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/SecondController.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
+    <list default="true" id="d573ab06-8dd0-4620-861d-aa1d0ae830ad" name="Default Changelist" comment="0.09">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/FirstController.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/org/solovova/std_spring_firstmvc/controllers/FirstController.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +57,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -84,19 +81,6 @@
     </key>
   </component>
   <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.43">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
       <method v="2" />
     </configuration>
@@ -217,7 +201,10 @@
       <workItem from="1614871392002" duration="778000" />
       <workItem from="1614933349493" duration="2744000" />
       <workItem from="1614936306939" duration="223000" />
-      <workItem from="1614937966991" duration="2792000" />
+      <workItem from="1614937966991" duration="2825000" />
+      <workItem from="1614969780874" duration="25000" />
+      <workItem from="1615034286133" duration="118000" />
+      <workItem from="1615034425561" duration="793000" />
     </task>
     <task id="LOCAL-00001" summary="0.00">
       <created>1614859479945</created>
@@ -282,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614943592379</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="0.09">
+      <created>1614943839548</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1614943839548</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -310,6 +304,11 @@
     <MESSAGE value="0.06" />
     <MESSAGE value="0.07" />
     <MESSAGE value="0.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="0.08" />
+    <MESSAGE value="0.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="0.09" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
